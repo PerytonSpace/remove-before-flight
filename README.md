@@ -20,15 +20,10 @@ The design utilises the TPS22810 load switching IC. WHen the EN pin is HIGH the 
     <img align = "left" src="https://github.com/PerytonSpace/remove-before-flight/blob/main/assets/img/pcb-3d-top.png" width = 40% height = 40% > <img align = "right" src="https://github.com/PerytonSpace/remove-before-flight/blob/main/assets/img/pcb-3d-bottom.png" width = 40% height = 40% >
             <br clear="both"/>
     <p>
-    <img align = "left" src="https://github.com/PerytonSpace/remove-before-flight/blob/main/assets/img/pcb-top.png" width = 40% height = 40% > <img align = "right" src="https://github.com/PerytonSpace/remove-before-flight/blob/main/assets/img/pcb-bottom.png" width = 40% height = 40% >
+    <img align = "left" src=".png" width = 40% height = 40% > <img align = "right" src="https://github.com/PerytonSpace/remove-before-flight/blob/main/assets/img/pcb-bottom.png" width = 40% height = 40% >
 
 
 </p>
-
-
-
-
-
 
 
 <p align="center">
