@@ -6,7 +6,7 @@ The goal of the project is to create a reliable method for arming rocket flight 
 The design will be subject to vibrations and shocks and high g-forces and so the design is required to be solid state with no moving parts that could activate during flight. 
 
 ## TPS22810
-The design utilises the TPS22810 load switching IC. WHen the EN pin is HIGH the Vout is enabled, when LOW Vout is switched off.
+The design utilises the TPS22810 load switching IC. When the EN pin is HIGH the Vout is enabled, when LOW Vout is switched off.
 
 <p align="center">   
 <img src="https://github.com/PerytonSpace/remove-before-flight/blob/main/assets/img/tps22810-pinout.png" width = 40% height = 40% >
